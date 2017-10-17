@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} Ashwin Kalyan </title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+ 
+  <div id="main">
+ 
+    <header>
+      <h1> Ashwin Kalyan </h1>
+    <header>
+ 
+    <nav role="navigation">
+      <ul>
+        <a href="/">Home</a> &nbsp <a href="/about">About</a> 	<a href="/contact">Contact</a>
+      </ul>
+    </nav>
+ 
+    {{ content }}
+ 
+    <footer>
+      <p> </p>
+    </footer>
+ 
+  </div>
+</body>
+</html>
