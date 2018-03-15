@@ -32,7 +32,7 @@ h3 {
 .content {
     text-align: left;
     position: relative;
-    left: -300px;
+    left: -250px;
     top: 50px;
     /* right: 350px; */
     overflow: auto;
