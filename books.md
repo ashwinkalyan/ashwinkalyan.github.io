@@ -14,3 +14,17 @@ Nassim Nicholas Taleb
 Don Norman
 - [Uttarakanda](https://en.wikipedia.org/wiki/Uttarakaanda_(novel)) [Kannada] <br>
 S L Bhyrappa
+- [Kavalu](https://en.wikipedia.org/wiki/Kavalu) [Kannada] <br>
+S L Bhyrappa
+- [Bartimaeus Sequence](https://en.wikipedia.org/wiki/Bartimaeus_Sequence) <br>
+Jonathan Stroud
+- [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) <br>
+J R R Tolkien
+- [The Kingkiller Chronice](https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) <br>
+Partrick Rothfuss
+- [Parva](https://en.wikipedia.org/wiki/Parva_(novel)) [Kannada] <br>
+S L Bhyrappa
+- [Avarana](https://en.wikipedia.org/wiki/Aavarana) [Kannada] <br>
+S L Bhyrappa 
+- [The Adventures of Asterix](https://en.wikipedia.org/wiki/Asterix) [All 37 of them!] <br>
+Goscinny and Uderzo
