@@ -20,7 +20,7 @@ S L Bhyrappa
 Jonathan Stroud
 - [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) <br>
 J R R Tolkien
-- [The Kingkiller Chronice](https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) <br>
+- [The Kingkiller Chronicle](https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) <br>
 Partrick Rothfuss
 - [Parva](https://en.wikipedia.org/wiki/Parva_(novel)) [Kannada] <br>
 S L Bhyrappa
@@ -28,3 +28,19 @@ S L Bhyrappa
 S L Bhyrappa 
 - [The Adventures of Asterix](https://en.wikipedia.org/wiki/Asterix) [All 37 of them!] <br>
 Goscinny and Uderzo
+- [The Fourth Estate](https://en.wikipedia.org/wiki/The_Fourth_Estate_(novel)) <br> 
+Jeffrey Archer
+- [The king of Torts](https://en.wikipedia.org/wiki/The_King_of_Torts) <br>
+John Grisham
+- [Harry Potter Series](https://www.goodreads.com/series/45175-harry-potter) <br>
+J K Rowling
+- [His Dark Materials](https://en.wikipedia.org/wiki/His_Dark_Materials) <br>
+Philip Pullman
+- [Kelavu NenapugaLu](https://www.sapnaonline.com/books/kelavu-nenapugalu-navaratna-rama-1234011395-5551234011393) [Kannada] <br>
+Navaratna Rama Rao
+- [Naa Kanda Kalavidaru](https://books.google.com/books/about/With_Masters_of_Melody.html?id=DnzxZwEACAAJ) [Kannada] <br>
+Mysuru Vasudevacharya
+- [Honour Among Theives](https://en.wikipedia.org/wiki/Honour_Among_Thieves) <br>
+Jeffrey Archer
+- [Rangannana Kanasina Dinagalu](https://en.wikipedia.org/wiki/Rangannana_Kanasina_Dinagalu) [Kannada] <br>
+M. R. Srinivasamurthy
