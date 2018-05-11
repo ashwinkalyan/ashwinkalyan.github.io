@@ -4,6 +4,10 @@ layout: front
 
 # Publications
 <br>
+- Learning Multi-modal Input-Output mappings using Adaptive Neighborhood Structures <br>
+Ashwin Kalyan, Stefan Lee, Anitha Kannan, Dhruv Batra <br>
+International Conference on Machine Learning (ICML), 2018 <br>
+
 - [Neural-Guided Deductive Search for Real-Time Program Synthesis by Examples](https://www.microsoft.com/en-us/research/publication/neural-guided-deductive-search-real-time-program-synthesis-examples/) <br>
 Abhishek Mohta, Ashwin Kalyan, Oleksandr Polozov, Dhruv Batra, Sumit Gulwani, Prateek Jain  <br>
 International Conference on Learning Representations (ICLR), 2018 <br>

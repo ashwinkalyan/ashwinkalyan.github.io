@@ -40,7 +40,7 @@ Philip Pullman
 Navaratna Rama Rao
 - [Naa Kanda Kalavidaru](https://books.google.com/books/about/With_Masters_of_Melody.html?id=DnzxZwEACAAJ) [Kannada] <br>
 Mysuru Vasudevacharya
-- [Honour Among Theives](https://en.wikipedia.org/wiki/Honour_Among_Thieves) <br>
+- [Honour Among Thieves](https://en.wikipedia.org/wiki/Honour_Among_Thieves) <br>
 Jeffrey Archer
 - [Rangannana Kanasina Dinagalu](https://en.wikipedia.org/wiki/Rangannana_Kanasina_Dinagalu) [Kannada] <br>
 M. R. Srinivasamurthy
