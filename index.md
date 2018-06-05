@@ -6,7 +6,7 @@ layout: front
 <br>
 - Prediction of Aesthetic Elements in Karnatic Music: A Machine Learning Approach <font color="red">NEW!</font> <br> 
 Ragesh Rajan, Ashwin Kalyan and Deepu Vijayasenan <br>
-INTERSPEECH 2018 <br> 
+Annual Conference of the International Speech Communication Association (INTERSPEECH), 2018 <br> 
 
 - Learning Multi-modal Input-Output mappings using Adaptive Neighborhood Structures <font color="red">NEW!</font> <br>
 Ashwin Kalyan, Stefan Lee, Anitha Kannan, Dhruv Batra <br>
