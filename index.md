@@ -8,7 +8,7 @@ layout: front
 Ragesh Rajan, Ashwin Kalyan and Deepu Vijayasenan <br>
 Annual Conference of the International Speech Communication Association (INTERSPEECH), 2018 <br> 
 
-- Learning Multi-modal Input-Output mappings using Adaptive Neighborhood Structures <font color="red">NEW!</font> <br>
+- Learn from Your Neighbor: Learning Multi-modal mappings from Sparse Annotations <font color="red">NEW!</font> <br>
 Ashwin Kalyan, Stefan Lee, Anitha Kannan, Dhruv Batra <br>
 International Conference on Machine Learning (ICML), 2018 <br>
 
