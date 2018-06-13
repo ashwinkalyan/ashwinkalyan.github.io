@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /pictures/
+permalink: /random/
 ---
 For a long time, I have not been a big fan of documenting some of my previous memories like pics of much-awaited trips, recordings of violin concerts, etc. The philosophy behind this stemming from a certain amount of snobbery that these experiences are in my well... memory. However, as you might have realized by now, that is not true! Some pics and most of my concert recordings have been due to people around me and they have truly (and pleasantly) surprised me -- This is a collection of some of them. [If you were responsible for any of these and I havent't credited you, please ping me!!] 
 
