@@ -16,7 +16,7 @@ Poster Presentation at CMU-NITK Winter School, December 2014 <br>
 Left-Right: Jay Bothra, Akshay Uttamani, Harshvardhan and Me <br>
 Credits: Unknown [Saw them after four years in a shared drive folder]
 
-![]({{ site.baseurl }}/img/waynad.JPG){:height="280px" width="495px"}
+![]({{ site.baseurl }}/img/waynad.jpg){:height="280px" width="495px"}
 
 Brahmagiri Peak (probably), Waynad Trip with 1C folks, April 2015 <br>
 Left-Right: Yaligar, Me, Moka, Barak and VP <br>
