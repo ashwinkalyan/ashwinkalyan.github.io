@@ -23,19 +23,16 @@ h3 {
     position: relative;
     font-size: 15px;
     font-weight: normal;
-    overflow: auto;
+    overflow: scroll;
     left: 50px; 
     top: 55px; 
     font-family: "Courier", Helvetica, sans-serif;
     right: 100px;
 }
 .content {
-    text-align: left;
     position: relative;
-    left: -390px;
     top: 50px;
-    /* right: 350px; */
-    overflow: auto;
+    text-overflow: ellipsis;
     font-size: 15px;
 }
 
@@ -51,10 +48,10 @@ body {
     top: 20px;
     left: 10px;
     border-radius: 20%;
-    width: 360px;
-    height: 240px;
-    overflow: hidden;
+    width: 420px;
+    height: 280px;
     padding: 10px;
+    /* overflow: hidden; */
 }	
 
 li{
