@@ -22,3 +22,8 @@ Brahmagiri Peak (probably), Waynad Trip with 1C folks, April 2015 <br>
 Left-Right: Yaligar, Me, Moka, Barak and VP <br>
 Credits: Must be Nanju (since he isn't in the pic)
 
+![]({{ site.baseurl }}/img/starwars.png){:height="280px" width="495px"}
+
+Question from StarWars (Astronomy Quiz) that I organized along with Sam, October 2012 <br>
+Full Quiz is [here](https://drive.google.com/file/d/0BzRYn4ZlmuFoMm5weDdVUWh5a0F6SW11Y01qSktZNHBldktZ/view?usp=sharing). Ping me for the key! ;-) <br>
+Credits: Well, I made this one! But, someone reminded this one in the recent past.
