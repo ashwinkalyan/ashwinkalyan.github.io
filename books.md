@@ -6,12 +6,12 @@ The reason to put this list out on my webpage is of course, reaching out to like
 But the bigger driving force is to get my reading habit, that has taken a severe hit since grad school, back. 
 Also, inspired from lists of [Dheeraj](https://dheerajmn.mit.edu/personal/) and [Anup Rao](https://homes.cs.washington.edu/~anuprao/books.html).
 # Actively Reading: <br> <br>
-- [The Magicians](https://en.wikipedia.org/wiki/The_Magicians_(Grossman_novel)) <br>
-Lev Grossman [Stefan's suggestion] 
 - [A Hindu Critique of Buddhist Epistemolgy](https://www.amazon.com/Hindu-Critique-Buddhist-Epistemology-Determination/dp/0415648319) <br>
-John Taber [In collaboration with Arjun] <br>
+John Taber [In collaboration with Arjun] 
 
 # Completed: [non-exhaustive!] <br> <br>
+- [The Magicians](https://en.wikipedia.org/wiki/The_Magicians_(Grossman_novel)) <br>
+Lev Grossman [Stefan's suggestion] 
 - [Skin in the Game: Hidden Asymmetries in Daily Life](https://www.penguinrandomhouse.com/books/537828/skin-in-the-game-by-nassim-nicholas-taleb/9780425284629/) <br> 
 Nassim Nicholas Taleb
 - [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) <br>
