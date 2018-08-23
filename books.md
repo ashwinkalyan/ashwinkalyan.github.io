@@ -12,6 +12,8 @@ Varlam Shalamov [English Translation by John Glad] <br>
 John Taber [In collaboration with Arjun] 
 
 # Completed: [non-exhaustive!] <br> <br>
+- [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) <br>
+Jason Fried
 - [The Magicians](https://en.wikipedia.org/wiki/The_Magicians_(Grossman_novel)) <br>
 Lev Grossman [Stefan's suggestion] 
 - [Skin in the Game: Hidden Asymmetries in Daily Life](https://www.penguinrandomhouse.com/books/537828/skin-in-the-game-by-nassim-nicholas-taleb/9780425284629/) <br> 
