@@ -1,7 +1,7 @@
 ---
 layout: front
 ---
-# Publications
+# Publications 
 <br>
 - Prediction of Aesthetic Elements in Karnatic Music: A Machine Learning Approach <br>
 Ragesh Rajan, Ashwin Kalyan and Deepu Vijayasenan <br>
