@@ -3,7 +3,7 @@ layout: front
 ---
 # Publications 
 <br>
-- Prediction of Aesthetic Elements in Karnatic Music: A Machine Learning Approach <br>
+- [Prediction of Aesthetic Elements in Karnatic Music: A Machine Learning Approach](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/0991.pdf) <br>
 Ragesh Rajan, Ashwin Kalyan and Deepu Vijayasenan <br>
 Annual Conference of the International Speech Communication Association (INTERSPEECH), 2018 <br> 
 
