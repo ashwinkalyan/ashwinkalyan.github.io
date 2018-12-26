@@ -8,3 +8,5 @@ Niv Buchbinder and Moran Feldman <br>
 [Provides a succinct and at the same time, a thorough description of the subject.]
 - [Lecture Notes on Stochastic Modeling](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html) <br> 
 Karl Sigman <br>
+- [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980) <br>
+Sebastian Bubeck <br>
