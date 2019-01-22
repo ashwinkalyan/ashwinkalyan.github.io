@@ -6,8 +6,6 @@ The reason to put this list out on my webpage is of course, reaching out to like
 But the bigger driving force is to get my reading habit, that has taken a severe hit since grad school, back. 
 Also, inspired from lists of [Dheeraj](https://dheerajmn.mit.edu/personal/) and [Anup Rao](https://homes.cs.washington.edu/~anuprao/books.html).
 # Actively Reading: <br> <br>
-- [Panchatantra](https://raobharata.wordpress.com/tag/panchatantra-kannada-translation/) [Kannada] <br>
-Vishnu Sharma [Kannada Translation by Bharata B Rao] <br> 
 - [Kolyma Tales](https://en.wikipedia.org/wiki/The_Kolyma_Tales) <br>
 Varlam Shalamov [English Translation by John Glad] <br>
 
@@ -16,6 +14,8 @@ Varlam Shalamov [English Translation by John Glad] <br>
 John Taber [In collaboration with Arjun] 
 
 # Completed: [non-exhaustive!] <br> <br>
+- [Panchatantra](https://raobharata.wordpress.com/tag/panchatantra-kannada-translation/) [Kannada] <br>
+Vishnu Sharma [Kannada Translation by Bharata B Rao] <br> 
 - [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) <br>
 Jason Fried
 - [The Magicians](https://en.wikipedia.org/wiki/The_Magicians_(Grossman_novel)) <br>
