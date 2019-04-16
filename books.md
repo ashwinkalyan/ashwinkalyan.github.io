@@ -6,6 +6,8 @@ The reason to put this list out on my webpage is of course, reaching out to like
 But the bigger driving force is to get my reading habit, that has taken a severe hit since grad school, back. 
 Also, inspired from lists of [Dheeraj](https://dheerajmn.mit.edu/personal/) and [Anup Rao](https://homes.cs.washington.edu/~anuprao/books.html).
 # Actively Reading: <br> <br>
+- [How To Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) <br>
+George Pólya <br> 
 - [Kolyma Tales](https://en.wikipedia.org/wiki/The_Kolyma_Tales) <br>
 Varlam Shalamov [English Translation by John Glad] <br>
 
