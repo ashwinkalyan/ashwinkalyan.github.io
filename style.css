@@ -8,7 +8,7 @@ h1 {
     position: relative;
     left: 50px;
     top: 30px; 
-    font-family: "Courier", Helvetica, sans-serif;
+    font-family: "Helvetica", Courier, sans-serif;
 }
 
 h2 {
@@ -16,7 +16,7 @@ h2 {
     font-size: 15px;
     left: 50px; 
     top: 30px; 
-    font-family: "Courier", Helvetica, sans-serif;
+    font-family: "Helvetica", Courier, sans-serif;
 }
 
 h3 {
