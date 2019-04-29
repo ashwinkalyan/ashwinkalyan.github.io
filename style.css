@@ -26,7 +26,7 @@ h3 {
     overflow: scroll;
     left: 50px; 
     top: 35px; 
-    font-family: "Courier", Helvetica, sans-serif;
+    font-family: "Helvetica", Courier, sans-serif;
     right: 100px;
 }
 .content {
@@ -39,7 +39,7 @@ h3 {
 body {
     /* background-color: #e0e0d1; */
     background-color: #ffffff;
-    font-family: "Courier", Helvetica, sans-serif;
+    font-family: "Helvetica", Courier, sans-serif;
 }
 
 .image img {
