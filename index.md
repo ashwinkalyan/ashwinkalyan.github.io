@@ -4,8 +4,7 @@ layout: front
 # Publications 
 <br>
 - Differentiable Decoding of Sets of Sequences for Neural Sequence Models <br>
-Ashwin Kalyan, Stefan Lee, Peter Anderson, Dhruv Batra
-Ragesh Rajan, Ashwin Kalyan and Deepu Vijayasenan <br>
+Ashwin Kalyan, Stefan Lee, Peter Anderson, Dhruv Batra <br>
 International Conference on Machine Learning (ICML), 2019 <br> 
 
 - [Prediction of Aesthetic Elements in Karnatic Music: A Machine Learning Approach](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/0991.pdf) <br>
