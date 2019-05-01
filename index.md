@@ -2,6 +2,7 @@
 layout: front
 ---
 # Publications 
+<br>
 
 - [Differentiable Decoding of Sets of Sequences for Neural Sequence Models]() <br>
 Ashwin Kalyan, Stefan Lee, Peter Anderson, Dhruv Batra <br>
