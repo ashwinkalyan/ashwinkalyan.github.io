@@ -4,7 +4,7 @@ layout: front
 # Publications 
 <br>
 
-- [Differentiable Decoding of Sets of Sequences for Neural Sequence Models](http://proceedings.mlr.press/v97/kalyan19a.html) <br>
+- [Trainable Decoding of Sets of Sequences for Neural Sequence Models](http://proceedings.mlr.press/v97/kalyan19a.html) <br>
 Ashwin Kalyan, Stefan Lee, Peter Anderson, Dhruv Batra <br>
 International Conference on Machine Learning (ICML), 2019 <br> 
 
