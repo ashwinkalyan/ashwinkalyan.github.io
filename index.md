@@ -1,7 +1,7 @@
 ---
 layout: front
 ---
-I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/">Dhruv Batra). My primary research interest is Machine Learning and AI. <br> I am also interested in applying ML techniques to diverse fields including vision, language, audio and program synthesis.
+I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/). My primary research interest is Machine Learning and AI. <br> I am also interested in applying ML techniques to diverse fields including vision, language, audio and program synthesis.
 
 During my PhD, I have been fortunate to have interned with:
 - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019)
