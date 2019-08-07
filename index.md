@@ -1,10 +1,20 @@
 ---
 layout: front
 ---
-# Publications 
-<br>
+I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/">Dhruv Batra). My primary research interest is Machine Learning and AI. <br> I am also interested in applying ML techniques to diverse fields including vision, language, audio and program synthesis.
 
-- [Trainable Decoding of Sets of Sequences for Neural Sequence Models](http://proceedings.mlr.press/v97/kalyan19a.html) <br>
+During my PhD, I have been fortunate to have interned with:
+- [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019)
+- [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018)
+- [Prateek Jain](https://prateekjain.org) (MSR, Summer 2017)
+
+I am also a violinist learning Karnatic Classical Music from [A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Sounds from my concerts are on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
+
+Personal: [Books I Read]({{ site.baseurl }}/books/) || [Random]({{ site.baseurl }}/random/) || [Useful Pointers]({{ site.baseurl }}/notes/)
+
+<b> Publications </b> 
+<br>
+- [Trainable Decoding of Sets of Sequences for Neural Sequence Models](http://proceedings.mlr.press/v97/kalyan19a.html) [[talk]](https://www.facebook.com/icml.imls/videos/895968107420746/?t=4127) <br>
 Ashwin Kalyan, Stefan Lee, Peter Anderson, Dhruv Batra <br>
 International Conference on Machine Learning (ICML), 2019 <br> 
 
@@ -12,7 +22,7 @@ International Conference on Machine Learning (ICML), 2019 <br>
 Ragesh Rajan, Ashwin Kalyan and Deepu Vijayasenan <br>
 Annual Conference of the International Speech Communication Association (INTERSPEECH), 2018 <br> 
 
-- [Learn from Your Neighbor: Learning Multi-modal mappings from Sparse Annotations](https://arxiv.org/abs/1806.02934) <br>
+- [Learn from Your Neighbor: Learning Multi-modal mappings from Sparse Annotations](https://arxiv.org/abs/1806.02934) [[talk]](https://www.facebook.com/icml.imls/videos/430994127415108/?t=1346) <br>
 Ashwin Kalyan, Stefan Lee, Anitha Kannan, Dhruv Batra <br>
 International Conference on Machine Learning (ICML), 2018 <br>
 
@@ -40,3 +50,7 @@ IEEE Workshop on Machine Learning for Signal Processing (MLSP), 2016 <br>
 - [Audio Segmentation using A-priori Information in the Context of Karnatic Music](http://ieeexplore.ieee.org/document/7091550/) <br>
 Ashwin K Vijayakumar, Sreecharan S, Sumam David S <br>
 IEEE Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICE), 2015 <br>
+
+<b> Invited Talks </b>
+<br>
+- [Diverse Language Generation from Neural Sequence Models](https://genpact.zoom.us/recording/play/LCcCeFrZmRXyF0XR0Bsjzx3n_l8RLsG3nIP6WDBk-gHfKx_vJjMhvp-1knum_9JD?continueMode=true), Genpact Innovation Center, Palo Alto, June 2019
