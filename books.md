@@ -5,17 +5,25 @@ permalink: /books/
 The reason to put this list out on my webpage is of course, reaching out to like-minded people. 
 But the bigger driving force is to get my reading habit, that has taken a severe hit since grad school, back. 
 Also, inspired from lists of [Dheeraj](https://dheerajmn.mit.edu/personal/) and [Anup Rao](https://homes.cs.washington.edu/~anuprao/books.html).
-# Actively Reading: <br> <br>
-- [How To Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) <br>
-George Pólya <br> 
+
+<b> Actively Reading: </b>
+
+- [Mahabharata: Volume 3](https://www.amazon.in/Shree-Math-Mahabharata-Bharatha-Prakashana/dp/B077R88KW6) [Kannada] <br>
+Bharata Darshana Prakashana
 - [Kolyma Tales](https://en.wikipedia.org/wiki/The_Kolyma_Tales) <br>
 Varlam Shalamov [English Translation by John Glad] <br>
 
-# Temporarily Deferred <br> <br>
+<b> Temporarily Deferred </b>
+
 - [A Hindu Critique of Buddhist Epistemolgy](https://www.amazon.com/Hindu-Critique-Buddhist-Epistemology-Determination/dp/0415648319) <br>
 John Taber [In collaboration with Arjun] 
 
-# Completed: [non-exhaustive!] <br> <br>
+<b> Completed: [non-exhaustive!] </b> 
+
+- [Mahabharata: Volume 1-2](https://www.amazon.in/Shree-Math-Mahabharata-Bharatha-Prakashana/dp/B077R88KW6) [Kannada] <br>
+Bharata Darshana Prakashana
+- [How To Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) <br>
+George Pólya <br> 
 - [Panchatantra](https://raobharata.wordpress.com/tag/panchatantra-kannada-translation/) [Kannada] <br>
 Vishnu Sharma [Kannada Translation by Bharata B Rao] <br> 
 - [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) <br>
