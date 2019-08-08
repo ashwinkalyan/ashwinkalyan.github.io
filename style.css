@@ -8,11 +8,9 @@
     position: relative;
     top: 30px;
     left: 10px;
-    /* border-radius: 20%; */
     width: 420px;
     height: 280px;
     padding: 10px;
-    /* overflow: hidden; */
 }	
 
 h1 {
@@ -32,17 +30,15 @@ h2 {
 }
 
 .content {
-    overflow-wrap: breakword;
     position: relative;
     clear: left;
     left: 20px;
     top: 50px;
-    text-overflow: auto;
     font-size: 15px;
 }
 
 body {
-    /* background-color: #e0e0d1; */
+    overflow-x: hidden;
     position: relative;
     left: 40px;
     background-color: #ffffff;
