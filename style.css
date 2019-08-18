@@ -3,6 +3,36 @@
   /* text-align: left; */
 /* } */
 
+vision {
+    background-color: #00ffff;
+}
+
+nlp {
+    background-color: #ff00ff;
+}
+
+ml {
+    background-color: #ffff00;
+}
+
+pl {
+    background-color: #f0f0f0;
+}
+
+sound {
+    background-color: #0f0f0f;
+}
+
+imgbullet {
+    position: relative;
+    left: 40px;
+}
+
+iframe {
+    position: relative;
+    left: 40px;
+}
+
 .image img {
     float: left;
     position: relative;
@@ -11,6 +41,13 @@
     width: 420px;
     height: 280px;
     padding: 10px;
+}	
+
+img.thumbnail {
+    width: 180px;
+    height: 105px;
+    padding: 10px;
+    border: 3px solid #ddd;
 }	
 
 h1 {

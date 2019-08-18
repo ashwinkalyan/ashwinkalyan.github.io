@@ -8,9 +8,9 @@ During my PhD, I have been fortunate to have interned with:
 - [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018)
 - [Prateek Jain](https://prateekjain.org) (MSR, Summer 2017)
 
-I am also a violinist learning Karnatic Classical Music from [A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Sounds from my concerts are on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
+I also perform [Carnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under eminent violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Recordings from my concerts are on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
 
-Personal: [Books I Read]({{ site.baseurl }}/books/) || [Random]({{ site.baseurl }}/random/) || [Useful Pointers]({{ site.baseurl }}/notes/)
+Personal: || [Books I Read]({{ site.baseurl }}/books/) || [Random]({{ site.baseurl }}/random/) || [Useful Pointers]({{ site.baseurl }}/notes/)
 
 <b> Publications </b> 
 <br>
@@ -51,6 +51,16 @@ IEEE Workshop on Machine Learning for Signal Processing (MLSP), 2016 <br>
 Ashwin K Vijayakumar, Sreecharan S, Sumam David S <br>
 IEEE Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICE), 2015 <br>
 
-<b> Invited Talks </b>
-<br>
-- [Diverse Language Generation from Neural Sequence Models](https://genpact.zoom.us/recording/play/LCcCeFrZmRXyF0XR0Bsjzx3n_l8RLsG3nIP6WDBk-gHfKx_vJjMhvp-1knum_9JD?continueMode=true), Genpact Innovation Center, Palo Alto, June 2019
+<b> Talks </b>
+<br> <br> 
+- [Trainable Decoding of Sets of Sequences for Neural Sequence Models](https://www.facebook.com/icml.imls/videos/895968107420746/?t=4126) <br> 
+International Conference on Machine Learning 2019, Long Beach, June 2019 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ficml.imls%2Fvideos%2F895968107420746%2F%3Ft%3D4126%2F&show_text=0&width=560" width="240" height="140" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+- [Diverse Language Generation from Neural Sequence Models](https://genpact.zoom.us/recording/play/LCcCeFrZmRXyF0XR0Bsjzx3n_l8RLsG3nIP6WDBk-gHfKx_vJjMhvp-1knum_9JD?continueMode=true) <br> 
+Genpact Innovation Center, Palo Alto, June 2019 
+<imgbullet>
+<img src="{{ site.baseurl }}/img/diversity_talk.png" width="240" height="140" border="2">
+</imgbullet>
+- [Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations](https://www.facebook.com/icml.imls/videos/430994127415108/?t=10) <br>
+International Conference on Machine Learning 2018, Stockholm, June 2018
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ficml.imls%2Fvideos%2F430994127415108%2F&show_text=0&width=560" width="240" height="140" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
