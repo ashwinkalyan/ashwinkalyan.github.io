@@ -59,7 +59,9 @@ International Conference on Machine Learning 2019, Long Beach, June 2019
 - [Diverse Language Generation from Neural Sequence Models](https://genpact.zoom.us/recording/play/LCcCeFrZmRXyF0XR0Bsjzx3n_l8RLsG3nIP6WDBk-gHfKx_vJjMhvp-1knum_9JD?continueMode=true) <br> 
 Genpact Innovation Center, Palo Alto, June 2019 
 <imgbullet>
+<a href="https://genpact.zoom.us/recording/play/LCcCeFrZmRXyF0XR0Bsjzx3n_l8RLsG3nIP6WDBk-gHfKx_vJjMhvp-1knum_9JD?continueMode=true">
 <img src="{{ site.baseurl }}/img/diversity_talk.png" width="240" height="140" border="2">
+</a>
 </imgbullet>
 - [Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations](https://www.facebook.com/icml.imls/videos/430994127415108/?t=10) <br>
 International Conference on Machine Learning 2018, Stockholm, June 2018
