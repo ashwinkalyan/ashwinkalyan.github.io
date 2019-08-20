@@ -3,6 +3,8 @@ layout: front
 ---
 I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/). My primary research interest is Machine Learning and AI. <br> I am also interested in applying ML techniques to diverse fields including vision, language, audio and program synthesis.
 
+<font color="red"> I am currently on the job market! </font>
+
 During my PhD, I have been fortunate to have interned with:
 - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019)
 - [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018)
