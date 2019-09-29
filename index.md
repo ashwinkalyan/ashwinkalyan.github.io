@@ -1,7 +1,7 @@
 ---
 layout: front
 ---
-I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/). My primary research interest is Machine Learning and AI. <br> I am also interested in applying ML techniques to diverse fields including vision, language, audio and program synthesis.
+I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/). I am interested in developing theory and practical machine learning solutions for assistive technology -- specifically focusing on producing diverse outputs, improving reasoning systems and modeling human preferences. 
 
 <font color="red"> I am currently on the job market! </font>
 
