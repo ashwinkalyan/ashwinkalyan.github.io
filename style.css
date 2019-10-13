@@ -38,14 +38,14 @@ iframe {
     position: relative;
     top: 30px;
     left: 10px;
-    width: 420px;
-    height: 280px;
+    width: 400px;
+    height: 375px;
     padding: 10px;
 }	
 
 img.thumbnail {
     width: 180px;
-    height: 105px;
+    height: 180px;
     padding: 10px;
     border: 3px solid #ddd;
 }	
