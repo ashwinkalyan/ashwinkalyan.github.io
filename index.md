@@ -66,6 +66,6 @@ Genpact Innovation Center, Palo Alto, June 2019
 <img src="{{ site.baseurl }}/img/diversity_talk.png" width="240" height="140" border="2">
 </a>
 </imgbullet>
-- [Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations](https://www.facebook.com/icml.imls/videos/430994127415108/?t=10) <br>
+- [Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations](https://www.facebook.com/icml.imls/videos/430994127415108/?t=1350) <br>
 International Conference on Machine Learning 2018, Stockholm, June 2018
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ficml.imls%2Fvideos%2F430994127415108%2F&show_text=0&width=560" width="240" height="140" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
