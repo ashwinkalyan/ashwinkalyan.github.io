@@ -9,7 +9,7 @@ assistive technology -- focusing on producing diverse outputs, improving reasoni
 During my PhD, I have been fortunate to have interned with:
 - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019)
 - [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018)
-- [Prateek Jain](https://prateekjain.org) (MSR, Summer 2017)
+- [Prateek Jain](https://www.prateekjain.org) (MSR, Summer 2017)
 
 I also perform [Carnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under eminent violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Recordings from my concerts are on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
 
