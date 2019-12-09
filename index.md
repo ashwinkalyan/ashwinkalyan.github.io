@@ -2,7 +2,7 @@
 layout: front
 ---
 I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/). I am interested in developing machine learning solutions for <br>
-assistive technology -- focusing on producing diverse outputs, improving reasoning systems and modeling human preferences. 
+assistive technology -- focusing on producing diverse outputs, improving reasoning systems and modeling human preferences. An overview of my research and future directions is [here](https://drive.google.com/file/d/1oTDpMSMr1nXKd8b7aZqFiMdl8Q5bEmp3/view?usp=sharing).
 
 <font color="red"> I am currently on the job market! </font>
 
