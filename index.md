@@ -21,6 +21,10 @@ Personal: || [Books I Read]({{ site.baseurl }}/books/) || [Random]({{ site.baseu
 
 <b> Publications </b> 
 <br>
+- Adaptive Generation of Programming Puzzles <br>
+Ashwin Kalyan, Oleksandr Polozov, Adam Kalai <br> 
+<i>Under Review </i> <br>
+
 - [Trainable Decoding of Sets of Sequences for Neural Sequence Models](http://proceedings.mlr.press/v97/kalyan19a.html) [[talk]](https://www.facebook.com/icml.imls/videos/895968107420746/?t=4127) <br>
 Ashwin Kalyan, Stefan Lee, Peter Anderson, Dhruv Batra <br>
 International Conference on Machine Learning (ICML), 2019 <br> 
