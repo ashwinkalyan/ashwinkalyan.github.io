@@ -20,6 +20,10 @@ John Taber [In collaboration with Arjun]
 
 <b> Completed: [non-exhaustive!] </b> 
 
+- [Sun Tzu: The Art of Warfare](https://www.amazon.com/gp/product/034536239X/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) <br>
+Roger T. Ames
+- [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610) <br>
+Robert Kiyosaki
 - [Mahabharata: Volume 1-2](https://www.amazon.in/Shree-Math-Mahabharata-Bharatha-Prakashana/dp/B077R88KW6) [Kannada] <br>
 Bharata Darshana Prakashana
 - [How To Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) <br>

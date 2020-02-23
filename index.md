@@ -1,8 +1,10 @@
 ---
 layout: front
 ---
-I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/). I am interested in developing machine learning solutions for <br>
-assistive technology -- focusing on producing diverse outputs, improving reasoning systems and modeling human preferences. 
+I am a PhD student at Georgia Tech advised by [Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/). 
+
+My primary interest is machine reasoning -- specifically, designing AI systems that can perform complex mathematical and algorithmic problem solving. I am <br> 
+also interested in producing multiple correct outputs and modeling human preferences -- essential components of assistive technology in addition to reasoning. 
 
 An overview of my research and future directions is [here](https://drive.google.com/file/d/1oTDpMSMr1nXKd8b7aZqFiMdl8Q5bEmp3/view?usp=sharing).
 
