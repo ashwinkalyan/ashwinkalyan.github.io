@@ -8,8 +8,6 @@ also interested in producing multiple correct outputs and modeling human prefere
 
 An overview of my research and future directions is [here](https://drive.google.com/file/d/1oTDpMSMr1nXKd8b7aZqFiMdl8Q5bEmp3/view?usp=sharing).
 
-<font color="red"> I am currently on the job market! </font>
-
 During my PhD, I have been fortunate to have interned with:
 - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019)
 - [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018)
