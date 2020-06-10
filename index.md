@@ -15,7 +15,7 @@ During my PhD, I have been fortunate to have interned with:
 
 I also perform [Carnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under eminent violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Recordings from my concerts are on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
 
-Personal: || [Books I Read]({{ site.baseurl }}/books/) || [Random]({{ site.baseurl }}/random/) || [Useful Pointers]({{ site.baseurl }}/notes/)
+Personal: || [Books I Read]({{ site.baseurl }}/books/) || [Random]({{ site.baseurl }}/random/) || [Useful Pointers]({{ site.baseurl }}/notes/) || [Hot Springs]({{ site.baseurl}}/hot-springs/)
 
 <b> Publications </b> 
 <br>
