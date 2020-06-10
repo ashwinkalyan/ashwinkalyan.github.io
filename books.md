@@ -19,7 +19,7 @@ John Taber [Reading along with Arjun]
 
 <b> Completed: [non-exhaustive!] </b> 
 
-- [Augustus: First Emperor of Rome](https://www.amazon.com/Augustus-First-Emperor-Adrian-Goldsworthy/dp/0300216661)
+- [Augustus: First Emperor of Rome](https://www.amazon.com/Augustus-First-Emperor-Adrian-Goldsworthy/dp/0300216661) <br>
 Adrian Goldsworthy
 - [Shivaji and His Times](https://www.amazon.com/Shivaji-His-Times-Classic-Reprint/dp/1331342457) <br>
 Jadunath Sarkar
