@@ -2,7 +2,7 @@
 layout: page
 permalink: /collaborators/
 ---
-I have been extremely fortunate to work with a really smart set of people though out my research my career. <br>
+I have been extremely fortunate to work with a really smart set of people though out my research career. <br>
 Below is a list in chronological order: 
 
 - Vinay Sundar Ranjan

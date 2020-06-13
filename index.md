@@ -8,7 +8,7 @@ also interested in producing multiple correct outputs and modeling human prefere
 
 An overview of my research and future directions is [here](https://drive.google.com/file/d/1oTDpMSMr1nXKd8b7aZqFiMdl8Q5bEmp3/view?usp=sharing).
 
-I am extremely thankful to all my [collaborators]( {{ site.baseurl }}/collaborators/) who have supported and my research journey an amazing experience.
+I am thankful to all my [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me, making my research journey an amazing experience.
 <!-- During my PhD, I have been fortunate to have interned with: -->
 <!-- - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019) -->
 <!-- - [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018) -->
