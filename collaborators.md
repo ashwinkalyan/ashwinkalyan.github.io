@@ -28,7 +28,7 @@ I have been extremely fortunate to work with a really smart set of people though
 - Abhishek Mohta [Microsoft Research]
 - [Oleksandr Polozov](https://alexpolozov.com/) [Microsoft Research] 
 - [Prateek Jain](https://www.prateekjain.org/) [Microsoft Research]
-- [Sumeet Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) [Microsoft Research]
+- [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) [Microsoft]
 - [Anitha Kannan](https://scholar.google.com/citations?user=eoBHpj4AAAAJ&hl=en) [Facebook AI Research]
 - [Peter Anderson](https://panderson.me/) [Georgia Tech] 
 - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) [Microsoft Research] 
