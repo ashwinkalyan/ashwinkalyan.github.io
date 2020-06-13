@@ -8,10 +8,11 @@ also interested in producing multiple correct outputs and modeling human prefere
 
 An overview of my research and future directions is [here](https://drive.google.com/file/d/1oTDpMSMr1nXKd8b7aZqFiMdl8Q5bEmp3/view?usp=sharing).
 
-During my PhD, I have been fortunate to have interned with:
-- [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019)
-- [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018)
-- [Prateek Jain](https://www.prateekjain.org) (MSR, Summer 2017)
+I am extremely thankful to all my [collaborators]( {{ site.baseurl }}/collaborators/) who have supported and my research journey an amazing experience.
+<!-- During my PhD, I have been fortunate to have interned with: -->
+<!-- - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) (MSR, Spring 2019) -->
+<!-- - [Murray Campbell](https://researcher.watson.ibm.com/researcher/view.php?person=us-mcam) (IBM, Summer 2018) -->
+<!-- - [Prateek Jain](https://www.prateekjain.org) (MSR, Summer 2017) -->
 
 I also perform [Carnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under eminent violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Recordings from my concerts are on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
 
