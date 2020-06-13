@@ -5,7 +5,7 @@ permalink: /collaborators/
 I have been extremely fortunate to work with a really smart set of people though out my research career. Below is a list in chronological order: <br>
 <p style="color:blue;">[Affiliation listed corresponds to their affiliation when I met them]</p>
 
-- [Vinay Sundar Ranjan] https://in.linkedin.com/in/vinay-sundar-rajan) [National Institute of Technology Karnataka]
+- [Vinay Sundar Ranjan](https://in.linkedin.com/in/vinay-sundar-rajan) [National Institute of Technology Karnataka]
 - [Sumam David S](https://sumam.nitk.ac.in/) [National Institute of Technology Karnataka]
 - [Sreecharan Sankaranarayanan](https://scholar.google.com/citations?user=pOmrGuQAAAAJ&hl=en) [National Institute of Technology Karnataka]
 - [James Beauchamp](http://cmp.music.illinois.edu/beaucham/) [University of Illinois at Urbana-Champaign]
