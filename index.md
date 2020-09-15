@@ -4,7 +4,8 @@ layout: front
 I am a research scientist at AI2 and a member of the [Aristo](https://allenai.org/aristo) team. My primary interest is machine reasoning -- specifically, designing AI systems that can perform complex <br> 
 mathematical and algorithmic problem solving. Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=KYHL9aIAAAAJ&hl=en). <br>
 
-I completed my PhD from Georgia Tech and was advised by [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I am thankful to all my [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me, making my research journey an amazing experience.
+I completed my PhD from Georgia Tech and was advised by [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I am thankful to all my [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me <br> 
+making my research journey an amazing experience.
 
 I perform [Karnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Check out recordings from my concerts on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
 
