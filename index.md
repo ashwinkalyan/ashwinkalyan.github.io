@@ -7,7 +7,7 @@ mathematical and algorithmic problem solving. Check out my publications on [Goog
 I completed my PhD from Georgia Tech and was advised by [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I am thankful to all my [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me <br> 
 making my research journey an amazing experience.
 
-I perform [Karnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Check out recordings from my concerts on [SoundCloud](https://soundcloud.com/ashwin-kalyan).
+I perform [Karnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Check out recordings from my concerts on [SoundCloud](https://soundcloud.com/ashwin-kalyan). Find a formal bio [here]({{ site.baseurl }}/violin_bio.pdf).
 
 <b> Personal: </b>
 - [Books I Read]({{ site.baseurl }}/books/) 
