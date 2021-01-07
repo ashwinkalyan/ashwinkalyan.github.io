@@ -2,12 +2,11 @@
 layout: front
 ---
 I am a research scientist at AI2 and a member of the [Aristo](https://allenai.org/aristo) team. My primary interest is machine reasoning -- specifically, designing AI systems that can perform complex <br> 
-mathematical and algorithmic problem solving. Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=KYHL9aIAAAAJ&hl=en). <br>
+mathematical and algorithmic problem solving. Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=KYHL9aIAAAAJ&hl=en) and some of my [talks]({{ site.baseurl}}/talks/). <br>
 
-I completed my PhD from Georgia Tech and was advised by [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I am thankful to all my [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me <br> 
-making my research journey an amazing experience.
+I completed my PhD from Georgia Tech and was advised by [Dr. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). I am thankful to all my wonderful [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me. 
 
-I perform [Karnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and train under violinist, [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Check out recordings from my concerts on [SoundCloud](https://soundcloud.com/ashwin-kalyan). Find a formal bio [here]({{ site.baseurl }}/violin_bio.pdf).
+I perform [Karnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the violin and learn from [Vid. A Kanyakumari](https://en.wikipedia.org/wiki/A._Kanyakumari). Check out recordings from my concerts on [SoundCloud](https://soundcloud.com/ashwin-kalyan). Find a formal bio [here]({{ site.baseurl }}/violin_bio.pdf).
 
 <b> Personal: </b>
 - [Books I Read]({{ site.baseurl }}/books/) 
@@ -58,18 +57,3 @@ I perform [Karnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the 
 <!-- Ashwin K Vijayakumar, Sreecharan S, Sumam David S <br> -->
 <!-- IEEE Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICE), 2015 <br> -->
 
-<b> Talks </b>
-<br> <br> 
-- [Trainable Decoding of Sets of Sequences for Neural Sequence Models](https://www.facebook.com/icml.imls/videos/895968107420746/?t=4126) <br> 
-International Conference on Machine Learning 2019, Long Beach, June 2019 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ficml.imls%2Fvideos%2F895968107420746%2F%3Ft%3D4126%2F&show_text=0&width=560" width="240" height="140" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-- [Diverse Language Generation from Neural Sequence Models](https://genpact.zoom.us/recording/play/LCcCeFrZmRXyF0XR0Bsjzx3n_l8RLsG3nIP6WDBk-gHfKx_vJjMhvp-1knum_9JD?continueMode=true) <br> 
-Genpact Innovation Center, Palo Alto, June 2019 
-<imgbullet>
-<a href="https://genpact.zoom.us/recording/play/LCcCeFrZmRXyF0XR0Bsjzx3n_l8RLsG3nIP6WDBk-gHfKx_vJjMhvp-1knum_9JD?continueMode=true">
-<img src="{{ site.baseurl }}/img/diversity_talk.png" width="240" height="140" border="2">
-</a>
-</imgbullet>
-- [Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations](https://www.facebook.com/icml.imls/videos/430994127415108/?t=1350) <br>
-International Conference on Machine Learning 2018, Stockholm, June 2018
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ficml.imls%2Fvideos%2F430994127415108%2F&show_text=0&width=560" width="240" height="140" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
