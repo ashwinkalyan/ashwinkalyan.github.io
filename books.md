@@ -4,7 +4,6 @@ permalink: /books/
 ---
 The reason to put this list out on my webpage is of course, reaching out to like-minded people. 
 But the bigger driving force is to get my reading habit, that has taken a severe hit since grad school, back. 
-Also, inspired from lists of [Dheeraj](https://dheerajmn.mit.edu/personal/) and [Anup Rao](https://homes.cs.washington.edu/~anuprao/books.html).
 
 <b> Actively Reading: </b>
 - [The Eye of The World](https://en.wikipedia.org/wiki/The_Eye_of_the_World) <br>
