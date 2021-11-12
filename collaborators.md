@@ -34,5 +34,11 @@ I have been extremely fortunate to work with a really smart set of people though
 - [Adam Kalai](https://www.microsoft.com/en-us/research/people/adum/) [Microsoft Research] 
 - [Nirbhay Modhe](https://nirbhayjm.github.io/) [Georgia Tech]
 - Harish Kamath [Georgia Tech]
+- [Ashish Sabharwal](https://allenai.org/team/ashishs) [AI2]
+- [Peter Clark](https://allenai.org/team/peterc) [AI2]
+- [Abhinav Kumar](https://abhinavkumar99.github.io/) [Georgia Tech]
+- [Avijit Thawani](https://avi-jit.github.io/) [Intern @ AI2 Summer 2021, University of South California]
+- [Swaroop Ranjan Mishra](https://scholar.google.co.in/citations?user=-7LK2SwAAAAJ&hl=en) [Intern @ AI2 Spring 2022, Arizona State University]
+
 
 
