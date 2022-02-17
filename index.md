@@ -12,7 +12,7 @@ I perform [Karnatic Music](https://en.wikipedia.org/wiki/Carnatic_music) on the 
 <b> Personal: </b>
 - [Books I Read]({{ site.baseurl }}/books/) 
 - [Random Pictures]({{ site.baseurl }}/random/) 
-- [Tutorials I Have Learned From]({{ site.baseurl }}/notes/) 
+<!-- - [Tutorials I Have Learned From]({{ site.baseurl }}/notes/)  -->
 - [Hot Springs I Have Visited]({{ site.baseurl}}/hot-springs/)
 
 <!-- <b> Publications </b>  -->
