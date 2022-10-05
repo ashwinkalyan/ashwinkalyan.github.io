@@ -39,6 +39,11 @@ I have been extremely fortunate to work with a really smart set of people though
 - [Abhinav Kumar](https://abhinavkumar99.github.io/) [Georgia Tech]
 - [Avijit Thawani](https://avi-jit.github.io/) [Intern @ AI2 Summer 2021, University of South California]
 - [Swaroop Ranjan Mishra](https://scholar.google.co.in/citations?user=-7LK2SwAAAAJ&hl=en) [Intern @ AI2 Spring 2022, Arizona State University]
+- [Tanmay Rajpurohit](https://scholar.google.com/citations?hl=en&user=B4NztA8AAAAJ&view_op=list_works&sortby=pubdate) [Genpact]
+- [Oyvind Tajford](https://allenai.org/team/oyvindt) [AI2]
+- [Pan Lu](https://lupantech.github.io/) [Intern @ AI2, Summer, Fall 2022]
+- [Matthew Finlayson](https://mattf1n.github.io/) [AI2]
+- [Leonard Tang](https://leonardtang.me/) [Student Researcher @ AI2, 2022-23]
 
 
 
