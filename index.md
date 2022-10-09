@@ -1,8 +1,6 @@
 ---
 layout: front
 ---
-<p style="color:red;"> I am currently traveling and responses to emails can be delayed. </p> <br>
-
 I am a research scientist at AI2 and a member of the [Aristo](https://allenai.org/aristo) team. Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=KYHL9aIAAAAJ&hl=en) and some of my [talks]({{ site.baseurl}}/talks/). <br>
 
 I completed my PhD from Georgia Tech and my bachelors from NIT Surathkal. I am thankful to all my wonderful [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me. 
