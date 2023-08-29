@@ -39,7 +39,8 @@ iframe {
     top: 30px;
     left: 10px;
     width: 400px;
-    height: 375px;
+    height: 400px;
+    object-fit: cover;
     padding: 10px;
 }	
 
