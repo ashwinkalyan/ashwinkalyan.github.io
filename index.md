@@ -1,7 +1,7 @@
 ---
 layout: front
 ---
-I am a research scientist at AI2 and a member of the [Aristo](https://allenai.org/aristo) team. Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=KYHL9aIAAAAJ&hl=en) and some of my [talks]({{ site.baseurl}}/talks/). <br>
+I am an AI researcher and have held various positions with AI2, Microsoft and IBM in the past. Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=KYHL9aIAAAAJ&hl=en) and some of my [talks]({{ site.baseurl}}/talks/). <br>
 
 I completed my PhD from Georgia Tech and my bachelors from NIT Surathkal. I am thankful to all my wonderful [collaborators]( {{ site.baseurl }}/collaborators/) who have supported me. 
 
